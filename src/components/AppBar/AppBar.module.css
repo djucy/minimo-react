@@ -1,0 +1,48 @@
+.logo{
+    font-family: Inconsolata;
+        font-size: 30px;
+        font-weight: 400;
+        font-style: normal;
+        
+        line-height: 24px;
+        text-align: center;
+        text-transform: uppercase;
+        /* Text style for "minim, ø" */
+       color:black;
+        letter-spacing: 6px;   
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-top:68px;
+    padding-bottom: 72px;
+}
+.nav_link{
+  font-size: 14px;
+  font-family: "Playfair Display";
+  color: rgb(98, 98, 98);
+  text-transform: uppercase;
+  line-height: 1.714;
+  text-align: center;
+}
+
+.nav__list{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.nav__item:not(:last-child) {
+    margin-right: 35px;}
+
+    @media(min-width:768px) {
+    .nav__item:not(:last-child) {
+        margin-right: 65px;
+    }
+}
+
+@media(min-width:1200px){ .nav__item:not(:last-child){
+margin-right: 95px;
+
+ }}

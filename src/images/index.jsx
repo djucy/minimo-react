@@ -33,6 +33,7 @@ import { carousel } from './carousel';
 import { icon_singlepost } from './icons/icons_singlepost';
 import { comments } from './comments';
 import { about_me } from './about_me';
+import { header } from './header';
 
 const images_articles = {
   alps,
@@ -78,4 +79,5 @@ export const images = {
   icon_singlepost,
   comments,
   about_me,
+  header,
 };

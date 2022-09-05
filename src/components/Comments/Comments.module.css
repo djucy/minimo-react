@@ -99,6 +99,9 @@ margin-right: 16px;
     margin-right: 38px;
     margin-bottom: 0;
 }
+.item__button{
+    background-color:transparent
+}
 @media(min-width:1200px){
     
     .comments__container{

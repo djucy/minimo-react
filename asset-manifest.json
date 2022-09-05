@@ -1,10 +1,24 @@
 {
   "files": {
-    "main.css": "/minimo-react/static/css/main.0b9edb9e.css",
+    "main.css": "/minimo-react/static/css/main.fa53aa33.css",
     "main.js": "/minimo-react/static/js/main.c1b00657.js",
+    "static/media/Ubuntu-Light.ttf": "/minimo-react/static/media/Ubuntu-Light.b6c0962b33adfd62ee88.ttf",
+    "static/media/Ubuntu-LightItalic.ttf": "/minimo-react/static/media/Ubuntu-LightItalic.57d5c1d0c905d08ea54e.ttf",
+    "static/media/Ubuntu-Italic.ttf": "/minimo-react/static/media/Ubuntu-Italic.be44bdfc4c09ee976bfc.ttf",
+    "static/media/Ubuntu-MediumItalic.ttf": "/minimo-react/static/media/Ubuntu-MediumItalic.a8d62706d627cff65d12.ttf",
+    "static/media/Ubuntu-BoldItalic.ttf": "/minimo-react/static/media/Ubuntu-BoldItalic.48e17d7a8f5ff796f087.ttf",
+    "static/media/Ubuntu-Regular.ttf": "/minimo-react/static/media/Ubuntu-Regular.5d5340410d5982ca5432.ttf",
+    "static/media/Ubuntu-Medium.ttf": "/minimo-react/static/media/Ubuntu-Medium.f6a60e5ba8fbdef3907b.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/minimo-react/static/media/Ubuntu-Bold.dcbada85323904e0cb69.ttf",
     "static/media/women_with_scarf@2x.jpg": "/minimo-react/static/media/women_with_scarf@2x.5e06fa361d15aa1809da.jpg",
     "static/media/book@2x.png": "/minimo-react/static/media/book@2x.3a77de15c591ec1a6de3.png",
+    "static/media/PlayfairDisplay-Bold.ttf": "/minimo-react/static/media/PlayfairDisplay-Bold.60d3f992e85f8e17f419.ttf",
+    "static/media/PlayfairDisplay-Black.ttf": "/minimo-react/static/media/PlayfairDisplay-Black.5f3cf41d49e31b00169d.ttf",
+    "static/media/PlayfairDisplay-Regular.ttf": "/minimo-react/static/media/PlayfairDisplay-Regular.b982583b4edccc394bb4.ttf",
     "static/media/woman_blackscirt@2x.jpg": "/minimo-react/static/media/woman_blackscirt@2x.093067e34767479c5d6b.jpg",
+    "static/media/PlayfairDisplay-BoldItalic.ttf": "/minimo-react/static/media/PlayfairDisplay-BoldItalic.716c12d14a987428556e.ttf",
+    "static/media/PlayfairDisplay-BlackItalic.ttf": "/minimo-react/static/media/PlayfairDisplay-BlackItalic.4850b85954c75e9d75f2.ttf",
+    "static/media/PlayfairDisplay-Italic.ttf": "/minimo-react/static/media/PlayfairDisplay-Italic.8b034e8d3b1fa7ddb9c0.ttf",
     "static/media/woman_inthe_sun@2x.jpg": "/minimo-react/static/media/woman_inthe_sun@2x.649e967e4d722c1eddbc.jpg",
     "static/media/hero_image@2x.jpg": "/minimo-react/static/media/hero_image@2x.dd8cb3e874016d8f3866.jpg",
     "static/media/cofe@2x.jpg": "/minimo-react/static/media/cofe@2x.1c944ef36ac29df9c94a.jpg",
@@ -28,11 +42,11 @@
     "static/media/articles_alps.jpg": "/minimo-react/static/media/articles_alps.7537da26a2534cd5a553.jpg",
     "static/media/Livello_2@2x.png": "/minimo-react/static/media/Livello_2@2x.d96439a5274616d16abe.png",
     "index.html": "/minimo-react/index.html",
-    "main.0b9edb9e.css.map": "/minimo-react/static/css/main.0b9edb9e.css.map",
+    "main.fa53aa33.css.map": "/minimo-react/static/css/main.fa53aa33.css.map",
     "main.c1b00657.js.map": "/minimo-react/static/js/main.c1b00657.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b9edb9e.css",
+    "static/css/main.fa53aa33.css",
     "static/js/main.c1b00657.js"
   ]
 }

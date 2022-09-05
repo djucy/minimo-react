@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/minimo-react/static/css/main.efb4ae3c.css",
-    "main.js": "/minimo-react/static/js/main.7649a3ee.js",
+    "main.css": "/minimo-react/static/css/main.0b9edb9e.css",
+    "main.js": "/minimo-react/static/js/main.c1b00657.js",
     "static/media/women_with_scarf@2x.jpg": "/minimo-react/static/media/women_with_scarf@2x.5e06fa361d15aa1809da.jpg",
+    "static/media/book@2x.png": "/minimo-react/static/media/book@2x.3a77de15c591ec1a6de3.png",
     "static/media/woman_blackscirt@2x.jpg": "/minimo-react/static/media/woman_blackscirt@2x.093067e34767479c5d6b.jpg",
     "static/media/woman_inthe_sun@2x.jpg": "/minimo-react/static/media/woman_inthe_sun@2x.649e967e4d722c1eddbc.jpg",
     "static/media/hero_image@2x.jpg": "/minimo-react/static/media/hero_image@2x.dd8cb3e874016d8f3866.jpg",
+    "static/media/cofe@2x.jpg": "/minimo-react/static/media/cofe@2x.1c944ef36ac29df9c94a.jpg",
     "static/media/women_with_scarf.jpg": "/minimo-react/static/media/women_with_scarf.df6f5d6d856885a943dc.jpg",
     "static/media/woman_black_skirt.jpg": "/minimo-react/static/media/woman_black_skirt.133e1df11fcad96de024.jpg",
     "static/media/Inconsolata-Regular.ttf": "/minimo-react/static/media/Inconsolata-Regular.e15132d1e131ae09e18a.ttf",
     "static/media/woman_inthe_sun.jpg": "/minimo-react/static/media/woman_inthe_sun.894d80d8206bf25b66f2.jpg",
     "static/media/hero_image.jpg": "/minimo-react/static/media/hero_image.e281b443ae74c81cd9b0.jpg",
+    "static/media/book.png": "/minimo-react/static/media/book.b3845a593fde7bf0dd9d.png",
+    "static/media/cofe.jpg": "/minimo-react/static/media/cofe.a125c25bda76268bb307.jpg",
     "static/media/articles_winter@2x.jpg": "/minimo-react/static/media/articles_winter@2x.4589d04a6ab635a3f26a.jpg",
     "static/media/articles_cofe@2x.jpg": "/minimo-react/static/media/articles_cofe@2x.b182e7fd504df5013b78.jpg",
     "static/media/articles_song@2x.jpg": "/minimo-react/static/media/articles_song@2x.2de8e53b0554b0841389.jpg",
@@ -24,11 +28,11 @@
     "static/media/articles_alps.jpg": "/minimo-react/static/media/articles_alps.7537da26a2534cd5a553.jpg",
     "static/media/Livello_2@2x.png": "/minimo-react/static/media/Livello_2@2x.d96439a5274616d16abe.png",
     "index.html": "/minimo-react/index.html",
-    "main.efb4ae3c.css.map": "/minimo-react/static/css/main.efb4ae3c.css.map",
-    "main.7649a3ee.js.map": "/minimo-react/static/js/main.7649a3ee.js.map"
+    "main.0b9edb9e.css.map": "/minimo-react/static/css/main.0b9edb9e.css.map",
+    "main.c1b00657.js.map": "/minimo-react/static/js/main.c1b00657.js.map"
   },
   "entrypoints": [
-    "static/css/main.efb4ae3c.css",
-    "static/js/main.7649a3ee.js"
+    "static/css/main.0b9edb9e.css",
+    "static/js/main.c1b00657.js"
   ]
 }

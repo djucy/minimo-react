@@ -1,0 +1,114 @@
+@media(max-width:768px){
+.sidebar__container {
+    display:none;}
+
+}
+
+.sidebar__container{
+    position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+ 
+    min-width:272px;
+    margin-left: 50px;
+    max-height: 965px;
+}
+.sidebar__title{
+    margin-top: 28px;
+    font-size: 24px;
+}
+.sidebar__text{
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+.sidebar__icons__list{
+    display: flex;
+    align-items: center;
+    margin-top: 23px;
+
+}
+.icons__item:not(:last-child){
+    margin-right: 16px;
+}
+
+.sidebar__post__title{
+    margin-top: 75px;
+    color: #b4ad9e;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+letter-spacing: normal;
+line-height: normal;
+
+text-transform: uppercase;}
+
+.sidebar__post__list{
+    margin-top: 35px;
+}
+
+.post__item{
+    margin-top: 29px;
+}
+
+.item__title{
+    display: inline-flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+.item__title::before{
+    content: '';
+    
+   margin-right: 21px;
+    display: block;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: #b4ad9e;
+}
+.item__text{
+    margin-left: 26px;
+    margin-top: 17px;
+    color: #b4ad9e;
+        font-family: Ubuntu;
+        font-size: 12px;
+        font-weight: 300;
+        letter-spacing: normal;
+        line-height: normal;
+        text-transform: uppercase;
+}
+.post__img__box{
+    position: relative;
+    margin-top: 55px;
+    width: 250px;
+    height: 250px;
+    background-color: #b4ad9e;
+}
+.img__banner__box{
+    position:absolute;
+    top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+}
+.img__banner__size{
+color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 48px;
+    font-weight: 300;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+    text-transform: uppercase;
+}
+.img__banner__spot{
+    color: #ffffff;
+        font-family: Ubuntu;
+        font-size: 14px;
+        font-weight: 300;
+        font-style: normal;
+        letter-spacing: normal;
+        line-height: normal;
+        text-align: center;
+        text-transform: uppercase;
+}

@@ -2,7 +2,7 @@ import Container from './Container/Container';
 import AppBar from './AppBar/AppBar';
 import { Routes, Route } from 'react-router-dom';
 import HomePage from '../pages/HomePage/HomePage';
-import SinglePost from '../pages/SinglePost/SinglePostPage';
+import SinglePost from '../pages/SinglePostPage/SinglePostPage';
 import SinglePostWithSidebar from '../pages/SinglePostWithSidebar/SinglePostWithSidebar';
 
 export const App = () => {

@@ -33,7 +33,7 @@ margin-right: 30px;
 max-width:420px;
 
 } }
-
+.articles__container{padding-bottom: 50px;}
 @media(min-width:1200px){
 .articles__item:nth-child(2n+1) {
         margin-right: 60px;

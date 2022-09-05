@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import SignupForm from 'components/SignupForm/SignupForm';
 import Container from 'components/Container/Container';
+import Button from 'components/Button/Button';
 import { images } from 'images';
 // import Text from 'components/AppBar/ShowMoreTex/ShowMoreText';
 import style from '../CommoneStyle/CommoneStyle.module.css';
@@ -10,7 +11,6 @@ export default function Articles() {
   return (
     <>
       <Container>
-        {' '}
         <ul className={s.articles__list}>
           <li className={s.articles__item}>
             <article className={s.article}>
@@ -106,50 +106,55 @@ export default function Articles() {
       <SignupForm></SignupForm>
 
       <Container>
-        <ul className={s.articles__list}>
-          <li className={s.articles__item}>
-            <article className={s.article}>
-              <img
-                className={s.article__img}
-                src={images.images_articles.song}
-                alt="Girl is wearing cardigan and hat on the head"
-              ></img>
-              <Link
-                to="/lifestyle"
-                className={`${style.article_category} ${s.article_category_position}`}
-              >
-                lifestyle
-              </Link>
-              <h3 className={style.article_title}>Top 10 song for running</h3>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              </p>
-            </article>
-          </li>
-          <li className={s.articles__item}>
-            <article className={s.article}>
-              <img
-                className={s.article__img}
-                src={images.images_articles.winter}
-                alt="The winter road"
-              ></img>
-              <Link
-                to="/lifestyle"
-                className={`${style.article_category} ${s.article_category_position}`}
-              >
-                lifestyle
-              </Link>
-              <h3 className={style.article_title}>Cold winter days</h3>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              </p>
-            </article>
-          </li>
-        </ul>
+        <div className={s.articles__container}>
+          <ul className={s.articles__list}>
+            <li className={s.articles__item}>
+              <article className={s.article}>
+                <img
+                  className={s.article__img}
+                  src={images.images_articles.song}
+                  alt="Girl is wearing cardigan and hat on the head"
+                ></img>
+                <Link
+                  to="/lifestyle"
+                  className={`${style.article_category} ${s.article_category_position}`}
+                >
+                  lifestyle
+                </Link>
+                <h3 className={style.article_title}>Top 10 song for running</h3>
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris
+                </p>
+              </article>
+            </li>
+            <li className={s.articles__item}>
+              <article className={s.article}>
+                <img
+                  className={s.article__img}
+                  src={images.images_articles.winter}
+                  alt="The winter road"
+                ></img>
+                <Link
+                  to="/lifestyle"
+                  className={`${style.article_category} ${s.article_category_position}`}
+                >
+                  lifestyle
+                </Link>
+                <h3 className={style.article_title}>Cold winter days</h3>
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris
+                </p>
+              </article>
+            </li>
+          </ul>
+          <Button></Button>
+        </div>
       </Container>
     </>
   );

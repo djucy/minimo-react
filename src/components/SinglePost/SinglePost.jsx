@@ -2,12 +2,13 @@ import { Link } from 'react-router-dom';
 import style from '../CommoneStyle/CommoneStyle.module.css';
 import s from './SinnglePost.module.css';
 
-import SinglePostContainer from 'components/SinglePostContainer/SinglePostContainer';
+// import SinglePostContainer from 'components/SinglePostContainer/SinglePostContainer';
 import { images } from 'images';
 
 export default function SinglePost() {
   return (
-    <SinglePostContainer>
+    // <SinglePostContainer>
+    <div>
       <Link to="/photodiary" className={style.article_category}>
         photodiary
       </Link>
@@ -119,6 +120,7 @@ export default function SinglePost() {
           <img src={images.icon_singlepost.pinterest} alt="Pinterest"></img>
         </li>
       </ul>
-    </SinglePostContainer>
+    </div>
+    // </SinglePostContainer>
   );
 }

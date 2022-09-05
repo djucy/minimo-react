@@ -8,6 +8,8 @@ import tw from './tw.png';
 import tw2x from './tw@2x.png';
 import pinterest from './pinterest.png';
 import pinterest2x from './pinterest@2x.png';
+import instagram from './instagram.png';
+import instagram2x from './instagram@2x.png';
 
 export const icon_singlepost = {
   fb,
@@ -20,4 +22,6 @@ export const icon_singlepost = {
   tw2x,
   pinterest,
   pinterest2x,
+  instagram,
+  instagram2x,
 };

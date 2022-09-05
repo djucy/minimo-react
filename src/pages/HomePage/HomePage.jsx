@@ -2,6 +2,7 @@ import Container from 'components/Container/Container';
 // import AppBar from 'components/AppBar/AppBar';
 import Hero from 'components/Hero/Hero';
 import Articles from 'components/Articles/Articles';
+import Footer from 'components/Footer/Footer';
 // import SignupForm from 'components/SignupForm/SignupForm';
 
 export default function HomePage() {
@@ -12,6 +13,7 @@ export default function HomePage() {
         <Hero></Hero>{' '}
       </Container>
       <Articles></Articles>
+      <Footer></Footer>
     </>
   );
 }

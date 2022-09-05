@@ -1,6 +1,7 @@
 import { images } from 'images';
 import style from './AlsoLikeArticles.module.css';
 import s from '../CommoneStyle/CommoneStyle.module.css';
+
 export default function AlsoLikeArticles() {
   return (
     <div className={style.like__container}>

@@ -32,6 +32,7 @@ import woman_in_sun_2x from '../images/single_post/woman_inthe_sun@2x.jpg';
 import { carousel } from './carousel';
 import { icon_singlepost } from './icons/icons_singlepost';
 import { comments } from './comments';
+import { about_me } from './about_me';
 
 const images_articles = {
   alps,
@@ -76,4 +77,5 @@ export const images = {
   carousel,
   icon_singlepost,
   comments,
+  about_me,
 };

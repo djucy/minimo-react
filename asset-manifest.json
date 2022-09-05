@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/minimo-react/static/css/main.2869b605.css",
-    "main.js": "/minimo-react/static/js/main.fa31c0dc.js",
+    "main.css": "/minimo-react/static/css/main.237b5149.css",
+    "main.js": "/minimo-react/static/js/main.db8ddf85.js",
     "static/media/Ubuntu-Light.ttf": "/minimo-react/static/media/Ubuntu-Light.b6c0962b33adfd62ee88.ttf",
     "static/media/Ubuntu-LightItalic.ttf": "/minimo-react/static/media/Ubuntu-LightItalic.57d5c1d0c905d08ea54e.ttf",
     "static/media/Ubuntu-Italic.ttf": "/minimo-react/static/media/Ubuntu-Italic.be44bdfc4c09ee976bfc.ttf",
@@ -42,11 +42,11 @@
     "static/media/articles_alps.jpg": "/minimo-react/static/media/articles_alps.7537da26a2534cd5a553.jpg",
     "static/media/Livello_2@2x.png": "/minimo-react/static/media/Livello_2@2x.d96439a5274616d16abe.png",
     "index.html": "/minimo-react/index.html",
-    "main.2869b605.css.map": "/minimo-react/static/css/main.2869b605.css.map",
-    "main.fa31c0dc.js.map": "/minimo-react/static/js/main.fa31c0dc.js.map"
+    "main.237b5149.css.map": "/minimo-react/static/css/main.237b5149.css.map",
+    "main.db8ddf85.js.map": "/minimo-react/static/js/main.db8ddf85.js.map"
   },
   "entrypoints": [
-    "static/css/main.2869b605.css",
-    "static/js/main.fa31c0dc.js"
+    "static/css/main.237b5149.css",
+    "static/js/main.db8ddf85.js"
   ]
 }

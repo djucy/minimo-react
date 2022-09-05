@@ -1,13 +1,34 @@
 {
   "files": {
-    "main.css": "/minimo-react/static/css/main.7acaea2f.css",
-    "main.js": "/minimo-react/static/js/main.07d3183d.js",
+    "main.css": "/minimo-react/static/css/main.efb4ae3c.css",
+    "main.js": "/minimo-react/static/js/main.7649a3ee.js",
+    "static/media/women_with_scarf@2x.jpg": "/minimo-react/static/media/women_with_scarf@2x.5e06fa361d15aa1809da.jpg",
+    "static/media/woman_blackscirt@2x.jpg": "/minimo-react/static/media/woman_blackscirt@2x.093067e34767479c5d6b.jpg",
+    "static/media/woman_inthe_sun@2x.jpg": "/minimo-react/static/media/woman_inthe_sun@2x.649e967e4d722c1eddbc.jpg",
+    "static/media/hero_image@2x.jpg": "/minimo-react/static/media/hero_image@2x.dd8cb3e874016d8f3866.jpg",
+    "static/media/women_with_scarf.jpg": "/minimo-react/static/media/women_with_scarf.df6f5d6d856885a943dc.jpg",
+    "static/media/woman_black_skirt.jpg": "/minimo-react/static/media/woman_black_skirt.133e1df11fcad96de024.jpg",
+    "static/media/Inconsolata-Regular.ttf": "/minimo-react/static/media/Inconsolata-Regular.e15132d1e131ae09e18a.ttf",
+    "static/media/woman_inthe_sun.jpg": "/minimo-react/static/media/woman_inthe_sun.894d80d8206bf25b66f2.jpg",
+    "static/media/hero_image.jpg": "/minimo-react/static/media/hero_image.e281b443ae74c81cd9b0.jpg",
+    "static/media/articles_winter@2x.jpg": "/minimo-react/static/media/articles_winter@2x.4589d04a6ab635a3f26a.jpg",
+    "static/media/articles_cofe@2x.jpg": "/minimo-react/static/media/articles_cofe@2x.b182e7fd504df5013b78.jpg",
+    "static/media/articles_song@2x.jpg": "/minimo-react/static/media/articles_song@2x.2de8e53b0554b0841389.jpg",
+    "static/media/articles_festival@2x.jpg": "/minimo-react/static/media/articles_festival@2x.6c6b564e29efdc0342b2.jpg",
+    "static/media/articles_alps@2x.jpg": "/minimo-react/static/media/articles_alps@2x.1117eb61b541b7c13650.jpg",
+    "static/media/articles_winter.jpg": "/minimo-react/static/media/articles_winter.6d8ae674769c64788fea.jpg",
+    "static/media/articles_dream@2x.jpg": "/minimo-react/static/media/articles_dream@2x.557fd7b3315cc64d0a5a.jpg",
+    "static/media/articles_cofe.jpg": "/minimo-react/static/media/articles_cofe.9025d553e5bc606b2a2b.jpg",
+    "static/media/articles_song.jpg": "/minimo-react/static/media/articles_song.aa685f5fb890f22eedf6.jpg",
+    "static/media/articles_festival.jpg": "/minimo-react/static/media/articles_festival.e8651317eaaa18b88768.jpg",
+    "static/media/articles_alps.jpg": "/minimo-react/static/media/articles_alps.7537da26a2534cd5a553.jpg",
+    "static/media/Livello_2@2x.png": "/minimo-react/static/media/Livello_2@2x.d96439a5274616d16abe.png",
     "index.html": "/minimo-react/index.html",
-    "main.7acaea2f.css.map": "/minimo-react/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/minimo-react/static/js/main.07d3183d.js.map"
+    "main.efb4ae3c.css.map": "/minimo-react/static/css/main.efb4ae3c.css.map",
+    "main.7649a3ee.js.map": "/minimo-react/static/js/main.7649a3ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.efb4ae3c.css",
+    "static/js/main.7649a3ee.js"
   ]
 }

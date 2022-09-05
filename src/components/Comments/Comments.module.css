@@ -76,6 +76,29 @@ color: #c8c8c8;
 
 }
 
+.comments__connect__box{
+     display: flex;
+     align-items: center;
+     justify-content: flex-end;
+      margin-top: 38px;
+  
+}
+.connect__list{
+display: flex;
+align-items: center;
+}
+.connect__link:not(:last-child){
+margin-right: 16px;
+
+}
+.connect__link{
+    display: flex;
+    align-items: center;
+}
+.comments__counter{
+    margin-right: 38px;
+    margin-bottom: 0;
+}
 @media(min-width:1200px){
     
     .comments__container{
@@ -90,3 +113,4 @@ margin-right: 70px;
 
 
 }}
+

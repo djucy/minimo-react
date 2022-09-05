@@ -3,6 +3,7 @@ import AppBar from './AppBar/AppBar';
 import { Routes, Route } from 'react-router-dom';
 import HomePage from '../pages/HomePage/HomePage';
 import SinglePost from '../pages/SinglePost/SinglePostPage';
+import SinglePostWithSidebar from '../pages/SinglePostWithSidebar/SinglePostWithSidebar';
 
 export const App = () => {
   return (
@@ -17,7 +18,10 @@ export const App = () => {
         <Route path="/lifestile"></Route>
         <Route path="/photodiary"></Route>
         <Route path="/music"></Route>
-        <Route path="/travel"></Route>
+        <Route
+          path="/travel"
+          element={<SinglePostWithSidebar></SinglePostWithSidebar>}
+        ></Route>
       </Routes>
     </>
   );

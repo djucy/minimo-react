@@ -1,4 +1,3 @@
-// import { images } from 'images';
 import Container from 'components/Container/Container';
 import HeroImage from 'components/SinglePost/HeroImage/HeroImage';
 import SinglePost from 'components/SinglePost/SinglePost';

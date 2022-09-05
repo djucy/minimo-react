@@ -60,6 +60,27 @@ export default function Comments() {
             ></input>
           </form>
         </div>
+        <div className={style.comments__connect__box}>
+          <p className={`${s.article_category} ${style.comments__counter}`}>
+            Connected with
+          </p>
+          <ul className={`${style.comments__connect} ${style.connect__list}`}>
+            <li className={style.connect__link}>
+              <img
+                className={style.connect__img}
+                src={images.comments.twitter}
+                alt="Twitter"
+              ></img>
+            </li>
+            <li className={style.connect__link}>
+              <img
+                className={style.connect__img}
+                src={images.comments.facebook}
+                alt="Facebook"
+              ></img>
+            </li>
+          </ul>
+        </div>
       </section>
     </div>
   );

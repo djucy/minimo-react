@@ -1,0 +1,29 @@
+.singlepost_container {
+    margin-left: auto;
+        margin-right: auto;
+        min-width: 320px;
+        padding: 30px;
+ 
+}
+
+@media(min-width:768px) {
+    .singlepost_container {
+        min-width: 768px;
+        padding:56px 110px;
+   
+      
+
+    }
+}
+
+@media(min-width:1200px) {
+    .singlepost_container {
+        width: 1200px;
+        padding:99px 149px 76px 149px;
+      
+    }}
+
+    
+              
+        
+    

@@ -1,5 +1,4 @@
-import { images } from 'images';
-import { Link, Outlet } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import style from '../Hero/Hero.module.css';
 import s from '../CommoneStyle/CommoneStyle.module.css';
 import CarouselImg from 'components/Carousel/Carousel';

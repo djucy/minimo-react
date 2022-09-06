@@ -2,7 +2,8 @@
 margin-left: auto;
    margin-right: auto;
    min-width: 320px;
-   padding:0 30px
+   padding:0 30px;
+   overflow:hidden;
 
 }
 

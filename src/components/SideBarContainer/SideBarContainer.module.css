@@ -2,9 +2,18 @@
         margin-left: auto;
 margin-right: auto;
 min-width: 320px;
-padding:20px 20px 120px 35px;
+padding:20px 50px 120px 50px;
+/* overflow: hidden;  */
 }   
 
+@media(min-width:768px) {
+    .container {
+
+        min-width: 768px;
+     
+
+    }
+}
 @media (min-width:1200px){
     .container{
 
@@ -12,8 +21,6 @@ width:1200px;
 padding:98px 70px 120px 149px;
 }
 
-
-
-
-
 }
+
+/*  */

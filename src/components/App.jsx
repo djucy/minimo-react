@@ -4,6 +4,7 @@ import { Routes, Route } from 'react-router-dom';
 import HomePage from '../pages/HomePage/HomePage';
 import SinglePost from '../pages/SinglePostPage/SinglePostPage';
 import SinglePostWithSidebar from '../pages/SinglePostWithSidebar/SinglePostWithSidebar';
+import RedirectPage from 'pages/RedirectPage/RedirectPage';
 
 export const App = () => {
   return (
@@ -15,9 +16,15 @@ export const App = () => {
         <Route path="/" element={<HomePage></HomePage>}></Route>
         <Route path="/singlepost" element={<SinglePost></SinglePost>}></Route>
 
-        <Route path="/lifestile"></Route>
-        <Route path="/photodiary"></Route>
-        <Route path="/music"></Route>
+        <Route
+          path="/lifestile"
+          element={<RedirectPage></RedirectPage>}
+        ></Route>
+        <Route
+          path="/photodiary"
+          element={<RedirectPage></RedirectPage>}
+        ></Route>
+        <Route path="/music" element={<RedirectPage></RedirectPage>}></Route>
         <Route
           path="/travel"
           element={<SinglePostWithSidebar></SinglePostWithSidebar>}

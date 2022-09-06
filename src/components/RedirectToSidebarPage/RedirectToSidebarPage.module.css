@@ -1,0 +1,7 @@
+.redirect__container{
+    display: flex;
+    justify-content: center;
+}
+.redirect__link{
+    color:black
+}
